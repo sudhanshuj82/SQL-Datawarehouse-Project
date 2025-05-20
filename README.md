@@ -44,8 +44,6 @@ This project reflects responsibilities aligned with roles such as:
 - **CSV Datasets** – Sample ERP and CRM data used as source inputs.
 - **GitHub** – Version control and project collaboration.
 - **Draw.io** – Used for designing architecture, ETL flow, and schema diagrams.
-- **Notion** – Used for organizing project steps, tasks, and documentation templates.
-
 ---
 
 
