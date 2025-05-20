@@ -67,12 +67,6 @@ This project reflects responsibilities aligned with roles such as:
 
 ---
 
-## 📌 Notes
-
-- This is a hands-on **portfolio project** created entirely using freely available tools and dummy datasets.
-- All project phases, from architecture to reporting, are included with diagrams and documentation.
-
----
 
 ## ☕ Let’s Connect
 
