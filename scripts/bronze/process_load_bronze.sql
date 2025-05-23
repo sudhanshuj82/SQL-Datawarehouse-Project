@@ -66,7 +66,7 @@ END;
 $$;
 
 /* Step 2: Call the stored procedure to trigger the load */
--- CALL bronze.load_all_bronze_files();
+CALL bronze.load_all_bronze_files();
 
 /* Step 3: Optional post-load verification - check row counts */
 -- This helps in verifying successful data ingestion
